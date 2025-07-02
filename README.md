@@ -1,5 +1,3 @@
-# covid19-awareness-site
-A responsive COVID-19 awareness and tracker website providing stats, prevention tips, symptoms info, and medical support.
 # 🦠 COVID-19 Tracker Website
 
 A responsive, informative COVID-19 awareness and tracking platform designed and developed by **Shoham Mallick**.  
