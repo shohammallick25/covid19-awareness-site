@@ -1,6 +1,6 @@
 {
   "name": "Covid-19 Awareness",
-  "short_name": "Covid19",
+  "short_name": "Covid-19",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,13 +9,13 @@
     {
       "src": "assets/images/favicon.svg",
       "sizes": "312x312",
-      "type": "image/png",
+      "type": "image/svg",
       "purpose":"any maskable"
     },
     {
       "src": "assets/images/favicon.svg",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/svg",
       "purpose":"any maskable"
     }
   ],
