@@ -1,4 +1,6 @@
 # 🦠 COVID-19 Tracker Website
+![image](https://github.com/user-attachments/assets/e27b5c56-4683-41ab-b553-f7a83cc7a7d8)
+
 
 A responsive, informative COVID-19 awareness and tracking platform designed and developed by **Shoham Mallick**.  
 This website presents real-time coronavirus statistics, safety guidelines, symptom details, and expert advice to help communities stay informed and safe.
